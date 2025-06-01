@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadContent</key>
+                <dict>
+                    <key>Key Type</key>
+                    <string>RSA</string>
+                    <key>Challenge</key>
+                    <string>zDjEjejcDY6okLbvvzHJDm2B7T4Z6AU8</string>
+                    <key>Key Usage</key>
+                    <integer>5</integer>
+                    <key>Keysize</key>
+                    <integer>2048</integer>
+                    <key>URL</key>
+                    <string>https://scep.us2.ninjarmm.com/scep</string>
+                </dict>
+                <key>PayloadIdentifier</key>
+                <string>com.ninjaone.scep</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.scep</string>
+                <key>PayloadUUID</key>
+                <string>a46c46da-aff6-4d37-8fee-c3703e378c8c</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+            </dict>
+            <dict>
+                <key>AccessRights</key>
+                <integer>8191</integer>
+                <key>CheckOutWhenRemoved</key>
+                <true/>
+                <key>IdentityCertificateUUID</key>
+                <string>a46c46da-aff6-4d37-8fee-c3703e378c8c</string>
+                <key>PayloadIdentifier</key>
+                <string>com.ninjaone.enrollment.mdm</string>
+                <key>PayloadType</key>
+                <string>com.apple.mdm</string>
+                <key>PayloadUUID</key>
+                <string>104aec85-d247-4191-ab2c-9e84fb235b91</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>ServerCapabilities</key>
+                <array>
+                    <string>com.apple.mdm.per-user-connections</string>
+                    <string>com.apple.mdm.bootstraptoken</string>
+                </array>
+                <key>ServerURL</key>
+                <string>https://mdm.us2.ninjarmm.com/mdm?profile=453c7ac6-bdb4-41b0-9d75-0ea78c0c65c7</string>
+                <key>SignMessage</key>
+                <true/>
+                <key>Topic</key>
+                <string>com.apple.mgmt.External.50931c6d-0626-4ac9-8db7-dca6a0db6184</string>
+            </dict>
+        </array>
+        <key>PayloadDisplayName</key>
+        <string>Enrollment Profile</string>
+        <key>PayloadIdentifier</key>
+        <string>com.ninjaone.profile.mdm</string>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>96c41eea-c5a7-45e5-8741-9ed88a7616fb</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>
