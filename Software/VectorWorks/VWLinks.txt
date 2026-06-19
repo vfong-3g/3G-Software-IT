@@ -1,2 +1,2 @@
-https://release.vectorworks.net/nnapub/vwim/31/NNA/eng/vwim-direct/Vectorworks%202026%20Install%20Manager-31.4.855868-mac.zip
-https://release.vectorworks.net/nnapub/vwim/31/NNA/eng/vwim-direct/Vectorworks%202026%20Install%20Manager%20855868.exe
+https://release.vectorworks.net/nnapub/vwim/31/NNA/eng/vwim-direct/Vectorworks%202026%20Install%20Manager-31.5.866973-mac.zip
+https://release.vectorworks.net/nnapub/vwim/31/NNA/eng/vwim-direct/Vectorworks%202026%20Install%20Manager%20866973.exe
